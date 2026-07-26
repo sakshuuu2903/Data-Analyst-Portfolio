@@ -6,4 +6,4 @@
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard_Screenshot.png)
+![Dashboard](Dashboard_Screenshort.png)
