@@ -3,7 +3,7 @@
 ## Project Overview
 This project is a Sales Dashboard created to analyze sales performance and generate meaningful business insights using Excel and Power BI.
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - Microsoft Excel
 - Power BI
@@ -41,6 +41,9 @@ The dataset contains:
 - Average Sales: ₹229.85
 
 ## Author
-Sakshi Gupta
 
-GitHub: https://github.com/sakshuuu2903
+Sakshi Gupta 
+Data Analyst Aspirant | Excel | SQL | Power BI
+
+ GitHub: https://github.com/sakshuuu2903  
+ LinkedIn: https://www.linkedin.com/in/sakshi-gupta-505bab37b
