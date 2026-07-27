@@ -3,12 +3,15 @@
 ## Project Overview
 This project is a Sales Dashboard created to analyze sales performance and generate meaningful business insights using Excel and Power BI.
 
-## Tools & Technologies
+## 🛠 Tools & Technologies
+
 - Microsoft Excel
 - Power BI
+- SQL
 - Data Cleaning
 - Data Analysis
 - Data Visualization
+- Dashboard Development
 
 ## Dataset Details
 The dataset contains:
