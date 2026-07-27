@@ -28,11 +28,12 @@ The dataset contains:
 - Studied product-wise sales trends
 - Created interactive dashboard visuals
 
-## Dashboard KPIs
-- Total Sales
-- Total Profit
-- Total Orders
-- Average Sales
+## 📊 Dashboard KPIs
+
+- Total Sales: ₹22,96,919.49
+- Total Profit: ₹2,86,409.08
+- Total Orders: 9,993
+- Average Sales: ₹229.85
 
 ## Author
 Sakshi Gupta
