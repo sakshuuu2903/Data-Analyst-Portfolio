@@ -1,9 +1,9 @@
-# Sales Dashboard - Data Analyst Project
+# 📊 Sales Dashboard - Data Analyst Project
 
-## Project Overview
+## 📌 Project Overview
 This project is a Sales Dashboard created to analyze sales performance and generate meaningful business insights using Excel and Power BI.
 
-## Tools & Technologies
+## 🛠 Tools & Technologies
 
 - Microsoft Excel
 - Power BI
@@ -13,7 +13,7 @@ This project is a Sales Dashboard created to analyze sales performance and gener
 - Data Visualization
 - Dashboard Development
 
-## Dataset Details
+## 📂 Dataset Details
 The dataset contains:
 - Order Information
 - Customer Details
@@ -21,11 +21,11 @@ The dataset contains:
 - Sales Data
 - Profit Data
 
-## Dashboard Preview
+## 📸 Dashboard Preview
 
 ![Dashboard](./Projects/Sales_Dashboard/Dashboard_Screenshort.png)
 
-## Key Insights
+## 🔍 Key Insights
 
 - Analyzed overall sales and profit performance to understand business growth.
 - Identified top-performing states contributing to higher sales.
@@ -33,14 +33,14 @@ The dataset contains:
 - Analyzed profit patterns to understand business performance.
 - Created interactive visuals for better decision-making.
   
-## Dashboard KPIs
+## 📊 Dashboard KPIs
 
 - Total Sales: ₹22,96,919.49
 - Total Profit: ₹2,86,409.08
 - Total Orders: 9,993
 - Average Sales: ₹229.85
 
-## Author
+## 👩‍💻 Author
 
 Sakshi Gupta 
 Data Analyst Aspirant | Excel | SQL | Power BI
