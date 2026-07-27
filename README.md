@@ -23,12 +23,14 @@ The dataset contains:
 ![Dashboard](./Projects/Sales_Dashboard/Dashboard_Screenshort.png)
 
 ## Key Insights
-- Analyzed overall sales and profit performance
-- Identified top-performing states and categories
-- Studied product-wise sales trends
-- Created interactive dashboard visuals
 
-## 📊 Dashboard KPIs
+- Analyzed overall sales and profit performance to understand business growth.
+- Identified top-performing states contributing to higher sales.
+- Compared category-wise and product-wise sales trends.
+- Analyzed profit patterns to understand business performance.
+- Created interactive visuals for better decision-making.
+  
+## Dashboard KPIs
 
 - Total Sales: ₹22,96,919.49
 - Total Profit: ₹2,86,409.08
