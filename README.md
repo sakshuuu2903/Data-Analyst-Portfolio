@@ -20,7 +20,7 @@ The dataset contains:
 
 ## Dashboard Preview
 
-![Dashboard](Projects/Sales_Dashboard/Dashboard_Screenshort.png)
+![Dashboard](./Projects/Sales_Dashboard/Dashboard_Screenshort.png)
 
 ## Key Insights
 - Analyzed overall sales and profit performance
